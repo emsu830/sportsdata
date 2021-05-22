@@ -1,7 +1,7 @@
 # Sports Data Repository
 Term: Spring 2021</br>
 Language: Python</br>
-Libraries: path, csv, glob, os, operator</br>
+Libraries: path, csv, glob, os, operator</br></br>
 SportClub class defines SportClub object attributes</br>
 CSV files contain survey data from individuals who ranked the top 3 teams from the NHL, NFL, MLB, and MLH</br>
 Program reads survey data to create a consolidated "Survey Database" file of all survey data</br>
