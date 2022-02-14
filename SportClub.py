@@ -1,3 +1,6 @@
+# Author: Emily Su
+# Last Revised: May 2021
+
 class SportClub:
     def __init__(self):
         self.name = ""
